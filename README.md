@@ -1,56 +1,27 @@
-<header>
-
 <!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-# Review pull requests
+## Finish
 
-_Collaborate and work together on GitHub._
+_Congratulations friend, you've completed this course!_
 
-</header>
+<img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
 
-<!--
-  <<< Author notes: Step 4 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
+As you continue working on GitHub, remember that high quality reviews improve your projects. If you are new to a repository, inquire about what review practices they have so you can hit the ground running.
 
-## Step 4: Suggest changes
+Here's a recap of all the tasks you've accomplished in your repository:
 
-_Nice work reviewing that pull request :sparkles:_
+- You learned how to assign pull requests for review.
+- You left a review on a pull request.
+- You suggested changes to a pull request.
+- You applied suggested changes to a pull request.
 
-Now that you have explored the different ways you can review a pull request it is time to learn how to use _suggest changes_.
+### What's next?
 
-**What is _suggest changes_?**: This feature enables you to recommend a change to a pull request that the author can commit with the push of a button.
-
-### :keyboard: Activity: Suggest changes
-
-1. On the pull request, click **Files changed**.
-1. Find the `index.html` changes.
-1. Hover your cursor next to the line numbers on the left side of the page.
-1. Click the blue plus icon.
-1. After the comment form appears, click the **Add a suggestion** button. <br>
-   ![add-a-suggestion-button](https://user-images.githubusercontent.com/97056108/184449714-61e8ee51-824a-48c1-9436-2dfd67f2c070.png)
-1. Edit the suggestion.
-1. Click **Add a single comment**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/review-pull-requests) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+- Try adding a [`CODEOWNERS`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file to your project to automatically assign reviewers to pull requests.
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/review-pull-requests).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
